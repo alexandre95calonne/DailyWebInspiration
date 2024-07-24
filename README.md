@@ -2,44 +2,52 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
+📅 Last update : july 24
+
 ## 🆕 Websites of the Day 
-- <a href="https://www.benetics.io/" target="_blank">Benetics</a>
-- [Example Site](https://www.example.com)
-- [Another Example](https://www.anotherexample.com)
+
+- [Linear](https://linear.app/)
+- [Railway](https://railway.app/)
+- [4TheLoud](https://www.4theloud.com/)
+- [Manuscry](https://www.manuscry.com/)
 
 ## 📝 Alphabetical List of Awesome Websites
-
-<details open>
-<summary>A</summary>
-
-- [Another Example](https://www.anotherexample.com)
-- [Awesome Site](https://www.awesomesite.com)
-
-</details>
 
 <details>
 <summary>B</summary>
 
 - <a href="https://www.benetics.io/" target="_blank">Benetics</a>
-- [Best Practices](https://www.bestpractices.com)
+
+</details>
+
+
+<details>
+<summary>L</summary>
+
+- [La rampe](https://www.larampe.io/)
+- [Linear](https://linear.app/)
 
 </details>
 
 <details>
-<summary>C</summary>
+<summary>M</summary>
 
-- [Cool Animations](https://www.coolanimations.com)
-- [Creative Agency](https://www.creativeagency.com)
+- [Manuscry](https://www.manuscry.com/)
 
 </details>
 
-<!-- Continue with other letters... -->
 
 <details>
-<summary>X-Y-Z</summary>
+<summary>R</summary>
 
-- [Xylo Design](https://www.xylodesign.com)
-- [Youthful Blog](https://www.youthfulblog.com)
-- [Zenith Portfolio](https://www.zenithportfolio.com)
+- [Railway](https://railway.app/)
+
+</details>
+
+
+<details>
+<summary>#</summary>
+
+- [4TheLoud](https://www.4theloud.com/)
 
 </details>
