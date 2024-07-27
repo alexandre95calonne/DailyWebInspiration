@@ -2,21 +2,21 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
-📅 Last update : july 24
+📅 Last update : july 27
 
 ## 🆕 Websites of the Day 
 
-- [Linear](https://linear.app/)
-- [Railway](https://railway.app/)
-- [4TheLoud](https://www.4theloud.com/)
-- [Manuscry](https://www.manuscry.com/)
+- [Borek](https://www.borek.eu/)
+- [MarketWise](https://www.marketwise.io/)
+- [Lookscout](https://www.lookscout.com/)
 
 ## 📝 Alphabetical List of Awesome Websites
 
 <details>
 <summary>B</summary>
 
-- <a href="https://www.benetics.io/" target="_blank">Benetics</a>
+- [Benetics](https://www.benetics.io/)
+- [Borek](https://www.borek.eu/)
 
 </details>
 
@@ -26,6 +26,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 
 - [La rampe](https://www.larampe.io/)
 - [Linear](https://linear.app/)
+- [Lookscout](https://www.lookscout.com/)
 
 </details>
 
@@ -33,6 +34,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 <summary>M</summary>
 
 - [Manuscry](https://www.manuscry.com/)
+- [MarketWise](https://www.marketwise.io/)
 
 </details>
 
