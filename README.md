@@ -2,13 +2,13 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
-📅 Last update : july 27
+📅 Last update : july 29
 
 ## 🆕 Websites of the Day 
 
-- [Borek](https://www.borek.eu/)
-- [MarketWise](https://www.marketwise.io/)
-- [Lookscout](https://www.lookscout.com/)
+- [Mirego](https://www.mirego.com/)
+- [Haven](https://havenservicing.com/)
+- [Heva](https://www.hevahealth.com/)
 
 ## 📝 Alphabetical List of Awesome Websites
 
@@ -17,6 +17,14 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 
 - [Benetics](https://www.benetics.io/)
 - [Borek](https://www.borek.eu/)
+
+</details>
+
+<details>
+<summary>H</summary>
+
+- [Haven](https://havenservicing.com/)
+- [Heva](https://www.hevahealth.com/)
 
 </details>
 
@@ -35,6 +43,8 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 
 - [Manuscry](https://www.manuscry.com/)
 - [MarketWise](https://www.marketwise.io/)
+- [Mirego](https://www.mirego.com/)
+
 
 </details>
 
