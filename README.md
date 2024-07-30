@@ -2,13 +2,13 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
-📅 Last update : july 29
+📅 Last update : july 30
 
 ## 🆕 Websites of the Day 
 
-- [Mirego](https://www.mirego.com/)
-- [Haven](https://havenservicing.com/)
-- [Heva](https://www.hevahealth.com/)
+- [Your Majesty](https://yourmajesty.co/)
+- [V-Retail](https://www.vretail.space/)
+- [Digital Mosaik](https://www.digitalmosaik.com/)
 
 ## 📝 Alphabetical List of Awesome Websites
 
@@ -17,6 +17,13 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 
 - [Benetics](https://www.benetics.io/)
 - [Borek](https://www.borek.eu/)
+
+</details>
+
+<details>
+<summary>B</summary>
+
+- [Digital Mosaik](https://www.digitalmosaik.com/)
 
 </details>
 
@@ -53,6 +60,20 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 <summary>R</summary>
 
 - [Railway](https://railway.app/)
+
+</details>
+
+<details>
+<summary>Y</summary>
+
+- [Your Majesty](https://yourmajesty.co/)
+
+</details>
+
+<details>
+<summary>Y</summary>
+
+- [Digital Mosaik](https://www.digitalmosaik.com/)
 
 </details>
 
