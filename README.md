@@ -71,9 +71,9 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 </details>
 
 <details>
-<summary>Y</summary>
+<summary>V</summary>
 
-- [Digital Mosaik](https://www.digitalmosaik.com/)
+- [V-Retail](https://www.vretail.space/)
 
 </details>
 
