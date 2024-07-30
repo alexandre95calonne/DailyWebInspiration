@@ -21,7 +21,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 </details>
 
 <details>
-<summary>B</summary>
+<summary>D</summary>
 
 - [Digital Mosaik](https://www.digitalmosaik.com/)
 
