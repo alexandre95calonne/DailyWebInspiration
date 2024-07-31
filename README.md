@@ -2,13 +2,13 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
-📅 Last update : july 30
+📅 Last update : july 31
 
 ## 🆕 Websites of the Day 
 
-- [Your Majesty](https://yourmajesty.co/)
-- [V-Retail](https://www.vretail.space/)
-- [Digital Mosaik](https://www.digitalmosaik.com/)
+- [Raycast](https://www.raycast.com/)
+- [Spikes](https://www.spikes-challenges.fr/)
+- [Ses Talaioles](https://www.sestalaioles.com/)
 
 ## 📝 Alphabetical List of Awesome Websites
 
@@ -60,6 +60,15 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 <summary>R</summary>
 
 - [Railway](https://railway.app/)
+- [Raycast](https://www.raycast.com/)
+
+</details>
+
+<details>
+<summary>S</summary>
+
+- [Spikes](https://www.spikes-challenges.fr/)
+- [Ses Talaioles](https://www.sestalaioles.com/)
 
 </details>
 
