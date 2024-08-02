@@ -2,13 +2,13 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
-📅 Last update : july 31
+📅 Last update : august 2
 
 ## 🆕 Websites of the Day 
 
-- [Raycast](https://www.raycast.com/)
-- [Spikes](https://www.spikes-challenges.fr/)
-- [Ses Talaioles](https://www.sestalaioles.com/)
+- [Gemeos](https://www.gemeosagency.com/fr)
+- [Side](https://www.side.co/)
+- [Lemlist](https://www.lemlist.com/)
 
 ## 📝 Alphabetical List of Awesome Websites
 
@@ -28,6 +28,14 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 </details>
 
 <details>
+<summary>G</summary>
+
+- [Haven](https://havenservicing.com/)
+- [Heva](https://www.hevahealth.com/)
+
+</details>
+
+<details>
 <summary>H</summary>
 
 - [Haven](https://havenservicing.com/)
@@ -42,6 +50,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 - [La rampe](https://www.larampe.io/)
 - [Linear](https://linear.app/)
 - [Lookscout](https://www.lookscout.com/)
+- [Lemlist](https://www.lemlist.com/)
 
 </details>
 
@@ -69,6 +78,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 
 - [Spikes](https://www.spikes-challenges.fr/)
 - [Ses Talaioles](https://www.sestalaioles.com/)
+- [Side](https://www.side.co/)
 
 </details>
 
