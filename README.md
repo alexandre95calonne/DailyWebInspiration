@@ -2,13 +2,13 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
-📅 Last update : august 2
+📅 Last update : august 5
 
 ## 🆕 Websites of the Day 
 
-- [Gemeos](https://www.gemeosagency.com/fr)
-- [Side](https://www.side.co/)
-- [Lemlist](https://www.lemlist.com/)
+- [Grow With Atlas](https://www.growwithatlas.co/)
+- [Wonderkin Tatoo](https://wonderkin.michael-aust.com/)
+- [Giulia Gartner](https://www.giuligartner.com/)
 
 ## 📝 Alphabetical List of Awesome Websites
 
@@ -32,6 +32,8 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 
 - [Haven](https://havenservicing.com/)
 - [Heva](https://www.hevahealth.com/)
+- [Grow With Atlas](https://www.growwithatlas.co/)
+- [Giulia Gartner](https://www.giuligartner.com/)
 
 </details>
 
@@ -93,6 +95,13 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 <summary>V</summary>
 
 - [V-Retail](https://www.vretail.space/)
+
+</details>
+
+<details>
+<summary>W</summary>
+
+- [Wonderkin Tatoo](https://wonderkin.michael-aust.com/)
 
 </details>
 
