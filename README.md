@@ -2,13 +2,13 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
-📅 Last update : august 5
+📅 Last update : august 7
 
 ## 🆕 Websites of the Day 
 
-- [Grow With Atlas](https://www.growwithatlas.co/)
-- [Wonderkin Tatoo](https://wonderkin.michael-aust.com/)
-- [Giulia Gartner](https://www.giuligartner.com/)
+- [Rothys](https://rothys.com/)
+- [Il Falconiere](https://www.ilfalconiere.it/)
+- [Villa Della ](https://www.villadellatorre.it/)
 
 ## 📝 Alphabetical List of Awesome Websites
 
@@ -29,9 +29,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 
 <details>
 <summary>G</summary>
-
-- [Haven](https://havenservicing.com/)
-- [Heva](https://www.hevahealth.com/)
+  
 - [Grow With Atlas](https://www.growwithatlas.co/)
 - [Giulia Gartner](https://www.giuligartner.com/)
 
@@ -42,6 +40,13 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 
 - [Haven](https://havenservicing.com/)
 - [Heva](https://www.hevahealth.com/)
+
+</details>
+
+<details>
+<summary>I</summary>
+
+[Il Falconiere](https://www.ilfalconiere.it/)
 
 </details>
 
@@ -72,6 +77,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 
 - [Railway](https://railway.app/)
 - [Raycast](https://www.raycast.com/)
+- [Rothys](https://rothys.com/)
 
 </details>
 
@@ -95,6 +101,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 <summary>V</summary>
 
 - [V-Retail](https://www.vretail.space/)
+- [Villa Della ](https://www.villadellatorre.it/)
 
 </details>
 
