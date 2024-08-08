@@ -2,13 +2,13 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
-📅 Last update : august 7
+📅 Last update : august 8
 
 ## 🆕 Websites of the Day 
 
-- [Rothys](https://rothys.com/)
-- [Il Falconiere](https://www.ilfalconiere.it/)
-- [Villa Della ](https://www.villadellatorre.it/)
+- [Mparticle](https://www.mparticle.com/)
+- [Macaron](https://macaron.ai/)
+- [Travelworld](https://www.travelworld.nl/)
 
 ## 📝 Alphabetical List of Awesome Websites
 
@@ -67,7 +67,8 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 - [Manuscry](https://www.manuscry.com/)
 - [MarketWise](https://www.marketwise.io/)
 - [Mirego](https://www.mirego.com/)
-
+- [Mparticle](https://www.mparticle.com/)
+- [Macaron](https://macaron.ai/)
 
 </details>
 
@@ -87,6 +88,13 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 - [Spikes](https://www.spikes-challenges.fr/)
 - [Ses Talaioles](https://www.sestalaioles.com/)
 - [Side](https://www.side.co/)
+
+</details>
+
+<details>
+<summary>T</summary>
+
+- [Travelworld](https://www.travelworld.nl/)
 
 </details>
 
