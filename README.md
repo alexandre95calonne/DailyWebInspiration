@@ -2,13 +2,13 @@
 
 Here, you'll find websites I've curated daily for Frontend inspiration. It's that simple!
 
-📅 Last update : august 8
+📅 Last update : august 9
 
 ## 🆕 Websites of the Day 
 
-- [Mparticle](https://www.mparticle.com/)
-- [Macaron](https://macaron.ai/)
-- [Travelworld](https://www.travelworld.nl/)
+- [Mobbin](https://mobbin.com/)
+- [Workable](https://www.workable.com/)
+- [Lyssna](https://www.lyssna.com/)
 
 ## 📝 Alphabetical List of Awesome Websites
 
@@ -58,6 +58,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 - [Linear](https://linear.app/)
 - [Lookscout](https://www.lookscout.com/)
 - [Lemlist](https://www.lemlist.com/)
+- [Lyssna](https://www.lyssna.com/)
 
 </details>
 
@@ -69,6 +70,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 - [Mirego](https://www.mirego.com/)
 - [Mparticle](https://www.mparticle.com/)
 - [Macaron](https://macaron.ai/)
+- [Mobbin](https://mobbin.com/)
 
 </details>
 
@@ -117,6 +119,7 @@ Here, you'll find websites I've curated daily for Frontend inspiration. It's tha
 <summary>W</summary>
 
 - [Wonderkin Tatoo](https://wonderkin.michael-aust.com/)
+- [Workable](https://www.workable.com/)
 
 </details>
 
